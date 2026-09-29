@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /chatbot-backend/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /chatbot-backend/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /chatbot-backend/
+
+Sitemap: https://lumeriqdesigns.vercel.app/sitemap.xml
